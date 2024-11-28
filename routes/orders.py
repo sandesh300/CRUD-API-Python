@@ -80,3 +80,4 @@ async def delete_order(order_id: int, db: AsyncSession = Depends(get_db)):
     await db.delete(order)
     await db.commit()
     return {"message": f"Order deleted successfully with ID - {order_id}"}
+
