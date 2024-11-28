@@ -25,4 +25,3 @@ class Order(Base):
     __table_args__ = (
         CheckConstraint('quantity > 0', name='quantity_positive'),
     )
-    
