@@ -67,6 +67,9 @@ This will execute all tests located in the `tests/` directory.
 ---
 
 ## API Documentation
+![Screenshot (58)](https://github.com/user-attachments/assets/e7e8bf07-335c-4193-91cf-5e83fd3008ce)
+
+
 
 ### Users API
 
