@@ -126,3 +126,4 @@ class TestOrders:
         # Verify order is deleted
         get_response = await async_client.get(f"/orders/{order_id}")
         assert get_response.status_code == status.HTTP_404_NOT_FOUND
+        
