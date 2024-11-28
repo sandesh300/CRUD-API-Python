@@ -38,3 +38,4 @@ class OrderInDB(OrderBase):
 
     class Config:
         from_attributes = True
+        
