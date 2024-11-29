@@ -1,4 +1,4 @@
-# CRUD Operations API Development
+![image](https://github.com/user-attachments/assets/61458127-a10b-4755-ac8e-7d50602ca70b)# CRUD Operations API Development
 
 ## Overview
 This is a FastAPI-based CRUD (Create, Read, Update, Delete) application that handles **Users** and **Orders**, featuring full test coverage.
@@ -44,6 +44,14 @@ The application follows best practices for structure and design, including:
 - **Database constraints** for data integrity.
 - **Comprehensive testing** with `pytest` and `pytest-asyncio`.
 
+### Prerequisites
+- Python 3.8+
+- PostgreSQL
+- FastAPI
+- SQLAlchemy
+- SSL
+- 
+
 ## Running the Application
 
 To start the FastAPI application, run the following command:
@@ -68,8 +76,6 @@ This will execute all tests located in the `tests/` directory.
 
 ## API Documentation
 ![Screenshot (58)](https://github.com/user-attachments/assets/e7e8bf07-335c-4193-91cf-5e83fd3008ce)
-
-
 
 ### Users API
 
