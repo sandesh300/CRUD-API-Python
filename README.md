@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61458127-a10b-4755-ac8e-7d50602ca70b)# CRUD Operations API Development
+# CRUD Operations API Development
 
 ## Overview
 This is a FastAPI-based CRUD (Create, Read, Update, Delete) application that handles **Users** and **Orders**, featuring full test coverage.
